@@ -16,5 +16,5 @@
   - Up and down buttons to change items when in the items list, and to browse the item text when in the items info
   - Rightmost button to select one item or cancel one item when in the items list
 
-- the little little gif demonstration
-  ![Navigate the UI](readme-pics/navigate.gif)
+    the little little gif demonstration\
+     ![Navigate the UI](readme-pics/navigate.gif)
