@@ -1,0 +1,90 @@
+html,
+body {
+	overflow: hidden;
+}
+
+.webgl-3d {
+	position: fixed;
+	top: 0;
+	left: 0;
+	outline: none;
+}
+
+dialog[open] {
+	animation: show 0.3s ease normal;
+}
+dialog.hide {
+	animation: disappear 0.3s ease normal;
+}
+@keyframes show {
+	from {
+		transform: scale(0.9);
+		opacity: 0;
+	}
+	to {
+		transform: scale(1);
+		opacity: 1;
+	}
+}
+@keyframes disappear {
+	from {
+		transform: scale(1);
+		opacity: 1;
+	}
+	to {
+		transform: scale(0.9);
+		opacity: 0;
+	}
+}
+
+dialog::backdrop {
+	background: black;
+	opacity: 0.5;
+}
+dialog[open]::backdrop {
+	animation: show-backdrop 0.5s ease normal;
+}
+dialog.hide::backdrop {
+	animation: hide-backdrop 0.5s ease normal;
+}
+@keyframes show-backdrop {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 0.5;
+	}
+}
+@keyframes hide-backdrop {
+	to {
+		opacity: 0;
+	}
+}
+
+dialog {
+	width: 75%;
+	background-color: rgba(0, 0, 0, 0.496);
+	padding: 5px 10px 10px 10px;
+	border: 1px solid black;
+	box-shadow: 0 0 1em rgb(0 0 0 / 0.3);
+}
+dialog p {
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	color: lightgrey;
+}
+.close-dialog-btn {
+	background-color: transparent;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: 20px;
+	transform: translateY(-4px);
+	color: lightgrey;
+}
+dialog header {
+	height: 25px;
+	display: flex;
+	justify-content: space-between;
+}

@@ -1,0 +1,123 @@
+{
+    "uiElesInfo":{
+        "uiBg": 
+        {"localUrl": "ui_bg.jpg"},
+
+        "uiBigBubble": 
+        {"localUrl": "ui_big_bubble.png"},
+        
+        "uiTopBar": 
+        {"localUrl": "ui_top_bar.png"},
+        
+        "uiInfoBoard": 
+        {"localUrl": "ui_info_board.png"},
+        
+        "uiRotatingScan": 
+        {"localUrl": "ui_rotating_scan.png"},
+        
+        "uiState0Arrow": 
+        {"localUrl": "ui_state0_arrow.png"},
+        
+        "uiState1Arrow": 
+        {"localUrl": "ui_state1_arrow.png"},
+        
+        "uiReelMask": 
+        {"localUrl": "ui_reel_mask.png"},
+
+        "uiHeart":
+        {"localUrl": "ui_heart.png"},
+
+        "uiExclamation":
+        {"localUrl": "ui_exclamation.png"},
+
+        "uiPlay":
+        {"localUrl": "ui_play.png"}
+    },
+
+    "headInfo": {
+        "state0Text": "NOW THE MACHINE IS SCANNING THE RETRO ITEM AND SCRAPING THE RELEVANT INFORMATION AND IMAGES FROM WEBS    ",
+        "state1Text": "CHOOSE THE RETRO ITEMS THAT AROUSE YOUR MEMORY TO BUILD A PERSONALLY BELOVED COLLECTION OR CHECK THE ITEM INFO    ",
+        "state2Text": "HERE IS THE CUSTOMISED COLLECTION OF YOUR FAVOURITE RETRO ITEMS, NOW BRING YOUR CHOICE TO THE WASTELAND    "
+    },
+
+    "itemBubbInfo": {
+        "beybladeBurstTop": {
+            "searchName": "beyblade burst toys", 
+            "localUrl": "beyblade_burst.png",
+            "introInfo": "Beyblade Burst utilizes a new 'Burst Gimmick', where a Beyblade top will explode when it has been weakened enough by the opposing Beyblade. Burst tops will be composed of three parts:\n\nEnergy Layer - The layer acts as the upper wheel of contact between two Beyblade tops. Each wheel has its own design with a preference to one of four types: Attack, Defense, Stamina and Balance.\n\nForge Disc - The disk is the main weight of the Beyblade and provides additional contact points for the top. The designs on these wheels will help the top in one of the four types.\n\nPerformance Tip - The driver is the bottom part of the Beyblade and serves as the basis of the new system. The Performance Tip determines the height of the Beyblade and the style of tip that the Beyblade spins on. When the Beyblade receives a large attack, the track bursts, loosening the grip keeping all the parts together to allow them to fall apart. This signifies that it has lost the battle.\n\nThe system also introduces a new Beystadium reminiscent of the Zero-G Stadium. The new stadium has barriers surrounding the entire stadium to protect players from bursting Beyblades and is a static BeyStadium.\n\nThe Light Launcher makes a return from the previous Beyblade generation, featuring a new design and new prongs, but retaining the ripcord functionality. A String Launcher will also be made available with B-08 Start Dash Set.\n\nBeyblade Burst reintroduces the Beypointer concept introduced in the Hybrid Wheel System, with a few alterations. Points are now tracked using a device called a BeyLogger, which will track the wins and losses of each Blader. After you are done battling, you can connect your BeyLogger to your smartphone or tablet's new BeyCloud app via the headphone jack to upload your results and determine your points and overall ranking. While wins and losses can be recorded from any match between two BeyLogger owners, points can only be earned from official shop tournaments.\n\nAn anime has been revealed to be accompanied with the toyline. The anime is currently in production and will debut during the Spring 2016 anime season, beginning in April 2016.\n\nInternational translations of the show are to be handled by Sunrights, a western subsidiary company of D-rights.\n\nThe Beyblade Burst manga began serialization in the August 2015 issue of the CoroCoro magazine, released on July 15, 2015 in Japan.\n\n\n\n"
+        },
+
+        "cdPlayer": {
+            "searchName": "discman cd player", 
+            "localUrl": "cd_player.png",
+            "introInfo": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks. CD players may be part of home stereo systems, car audio systems, personal computers, or portable CD players such as CD boomboxes. Most CD players produce an output signal via a headphone jack or RCA jacks. To use a CD player in a home stereo system, the user connects an RCA cable from the RCA jacks to a hi-fi (or other amplifier) and loudspeakers for listening to music. To listen to music using a CD player with a headphone output jack, the user plugs headphones or earphones into the headphone jack.\n\nModern units can play audio formats other than the original CD PCM audio coding, such as MP3, AAC and WMA. DJs playing dance music at clubs often use specialized players with an adjustable playback speed to alter the pitch and tempo of the music. Audio engineers using CD players to play music for an event through a sound reinforcement system use professional audio-grade CD players. CD playback functionality is also available on CD-ROM/DVD-ROM drive equipped computers as well as on DVD players and most optical disc-based home video game consoles.\n\nAmerican inventor James T. Russell is known for inventing the first system to record digital information on an optical transparent foil that is lit from behind by a high-power halogen lamp. Russell's patent application was first filed in 1966, and he was granted a patent in 1970. Following litigation, Sony and Philips licensed Russell's patents (then held by a Canadian company, Optical Recording Corp.) in the 1980s.\n\nThe Compact Disc is an evolution of LaserDisc technology, where a focused laser beam is used that enables the high information density required for high-quality digital audio signals. Prototypes were developed by Philips and Sony independently in the late 1970s. In 1979, Sony and Philips set up a joint task force of engineers to design a new digital audio disc. After a year of experimentation and discussion, the Red Book CD-DA standard was published in 1980. After their commercial release in 1982, compact discs and their players were extremely popular. Despite costing up to $1,000, over 400,000 CD players were sold in the United States between 1983 and 1984. The success of the compact disc has been credited to the cooperation between Philips and Sony, who came together to agree upon and develop compatible hardware. The unified design of the compact disc allowed consumers to purchase any disc or player from any company, and allowed the CD to dominate the at-home music market unchallenged.\n\nThe Sony CDP-101, released in 1982, was the world's first commercially released compact disc player. Unlike early LaserDisc players, first CD players already used laser diodes instead of larger helium-neon lasers.\n\n\n\n"
+        },
+
+        "clockworkJumpingToy": {
+            "searchName": "clockwork toys jumping animal retro", 
+            "localUrl": "clockwork_frog.png",
+            "introInfo": "In China's 80s and 90s, there was a toy that used to be popular all over the country.\n\nEvery child is proud of having it.\n\nThat is the iron clockwork frog.\n\nNowadays, with the development of the times, new toys and online games have replaced it.\n\n However, it is still a very fun classic toy.\n\nThis clockwork frog, just need to tighten the spring, it will jump, very interesting.\n\nAt the same time, its material is iron, so it is not afraid that children will break it.\n\nIf you like classic, retro-loving things, then buy this clockwork frog! \n\nWind up toys is a great way to develop fine motor skills for kids, everyone will get fun with wind- up toys.\n\nKids can have a competition with each other to find out whose cute frog flipping fastest. Playing Wind up Frogs together with your kids can promote the relationship between parents and children during the playing.\n\nFun and Cute---Just wind them up then you can see the frogs jump ahead. Our Wind-up Frogs Toys are easy to play with yet can bring abiding fun.\n\nEco-friendly and Safe---Using highly durable metal and dyes, eco-friendly and non-toxic. Each edge has circular arc design, smooth polished without burrs.\n\nPet Interactive Toy---Clockwork frogs are toys for pets like cat or dog to play with. Small size and lightweight, easy to carry and store, convenient to use.\n\nGreat Addition For---Easter Baskets, Christmas Stuffier, Birthday Party's, Valentine's Day, And Any Children, Favors And Party Decorations.\n\nDo not need batteries, save energy, let the kids learn to protect the toy. And they can get much fun with it.\n\nNote: Choking Hazard. Contains small parts. Not for children under 3 years. Use with adult supervision only.\n\n\n\n"
+        },
+
+        "furby": {
+            "searchName": "furby creepy", 
+            "localUrl": "furby.png",
+            "introInfo": "Once upon a time, not so long ago\nin a far off place, somewhere high in the sky\nriding on an 'a-loh may-lah' (cloud)\nthat floats near a 'dah a-loh' (big sun)\nlived the Furbys, each and every one\n\nSome were grey, and others white\nsome were both, and some were bright\nsmall of stature, big of heart\nall the Furbys were 'mee-mee' (very) smart\nthey spoke a language quite unknown,\nfor Furbish was a language all their own\n\nAnd on an 'a-loh may-lah' (cloud)\nFurbys romped and played\nthey liked to play 'Furby says' and 'hide and seek'\nand around the cloud they could peek\nall day long they would dance and sing,\nFurbys could do almost anything\n\nThen one day, they decided it was time to search,\nfor the place Furbys called Earth\nand so they went, in one big crowd\nto the very edge, of the Furbyland cloud\nAt the edge, they looked 'nah-bah' (down)\nand saw the world...so round, so 'dah' (big)\n'dah a-loh' (big sun) was 'u-tye' (up), the sky was blue,\nthe Furbys loved the 'noo-loo' (happy) view\nbut try as they might, they could not see\nwhat is so obvious to you and me\nThey were up so high above,\nthey could not see...a flower or a dove\nbut even though they were far away\nthey knew Earth was 'boo boh-bay' (no worry)\nso one by one, they jumped 'mee-mee u-tye' (very up)\nand to their 'a-loh may-lah' (cloud)\nthey said 'e-day toh-dye' (good bye)\nAnd as they dropped\nthey flipped they flopped\nthey sang 'dah a-loh u-tye' (big sun up)\nand zip-i-dee 'doo-ay' (fun), zip-i-dee 'e-day' (good)\nthey were 'mee-mee noo-loo', (very happy)\nfor they had come to 'noh-lah' (dance)\nwith 'u-nye' (you) and 'kah' (me)\n\nSo when you take a Furby home,\nyou will never be alone\nthe more you play, the more they do\nFurbys keep amazing you\n'noh-lah' (dance) and 'wee-tee' (sing),\nFurbys have come for 'u-nye' (you) and 'kah' (me)\n\n\nFurby is an American electronic robotic toy that was originally released in 1998 by Tiger Electronics. It resembles a hamster or owllike creature and went through a period of being a 'must-have' toy following its holiday season launch, with continual sales until 2000. Over 40 million Furbies were sold during the three years of its original production, with 1.8 million sold in 1998, and 14 million in 1999. Its speaking capabilities were translated into 24 languages.\n\nFurbies were the first successful attempt to produce and sell a domestically aimed robot. A newly purchased Furby starts out speaking entirely 'Furbish', the unique language that all Furbies use, but is programmed to start using English words and phrases in place of Furbish over time. This process is intended to resemble the process of learning English.[1] The updated Emoto-Tronic Furby, with voice recognition and more complex facial movements, was sold by Hasbro between 2005 and 2007.\n\n\n\n"
+        },
+
+        "gameboy": {
+            "searchName": "gameboy old original advanced", 
+            "localUrl": "gameboy.png",  
+            "introInfo": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The first handheld in the Game Boy family, it was first released in Japan on April 21, 1989. The console was released in North America later the same year, then in Europe in late 1990. It was designed by the same team that developed the Game & Watch series of handheld electronic games and several Nintendo Entertainment System games: Satoru Okada, Gunpei Yokoi, and Nintendo Research & Development 1. \n\nNintendo's second handheld game console, the Game Boy, combines features from both the NES home system and Game & Watch hardware. The console features a dot-matrix screen with adjustable contrast dial, five game control buttons (a directional pad, two game buttons, and START and SELECT), a single speaker with adjustable volume dial, and, like its rivals, uses cartridges as physical media for games. The color scheme is made from two tones of grey with accents of black, blue, and dark magenta. All the corners of the portrait-oriented rectangular unit are softly rounded, except for the bottom right, which is curved. At launch, it was sold either as a standalone unit, or bundled with one of several games, among them Super Mario Land and Tetris. Several accessories were also developed, including a carrying pouch, a camera, and a printer.\n\nDespite receiving mixed reviews by critics and being technologically inferior to its fourth-generation competitors (Sega's Game Gear, Atari's Lynx, and NEC's TurboExpress), the Game Boy received praise for its battery life and durability in its construction. It quickly outsold the competition, selling one million units in the United States within a few weeks. An estimated 118.69 million units of the Game Boy and its successor, the Game Boy Color, have been sold worldwide, making it the third best-selling video game console of all time. It is one of the most recognizable devices from the 1990s, becoming a cultural icon in the years following its release. Several redesigns were released during the console's lifetime, including the Game Boy Pocket in 1996 and the Game Boy Light in 1998 (Japan only). Production of the Game Boy continued into the early 2000s, even after the release of its second successor, the Game Boy Advance, in 2001. Production ceased in 2003.\n\n\n\n"
+        },
+
+        "hoopRolling": {
+            "searchName": "hoop rolling child game", 
+            "localUrl": "hoop_rolling.png",
+            "introInfo": "Hoop rolling, also called hoop trundling, is both a sport and a child's game in which a large hoop is rolled along the ground, generally by means of an object wielded by the player. The aim of the game is to keep the hoop upright for long periods of time, or to do various tricks.\n\nHoop rolling has been documented since antiquity in Africa, Asia and Europe. Played as a target game, it is an ancient tradition widely dispersed among different societies. In Asia, the earliest records date from Ancient China, and in Europe from Ancient Greece. \n\nIn the West, the most common materials for the equipment have been wood and metal. Wooden hoops, driven with a stick about one foot long, are struck with the center of the stick in order to ensure good progress. Metal hoops, instead of being struck, can be guided by a metal hook. \n\nA version of hoop rolling played as a target game is encountered as an ancient tradition among aboriginal peoples in many parts of the world. The game, known as hoop-and-pole, is ubiquitous throughout most of Africa. \n\nIn the Americas, it has been played by a great number of unrelated Native American tribes. The game has exhibited many variations of materials and size of implements and rules of play. It is postulated that its wide distribution is a factor of the rich symbolical possibilities of the game, rather than indicating radial diffusion from a single center of invention. \n\nHoops, also called krikoi, were probably made of bronze, iron, or copper, and were driven with a stick called the 'elater'. The hoop was sized according to the player, as it had to come up to the level of the chest. Greek vases generally show the elater as a short, straight stick. The sport was regarded as healthful, and was recommended by Hippocrates for strengthening weak constitutions. Even very young children would play with hoops. \n\nThe hoop thus held symbolic meanings in Greek myth and culture. A bronze hoop was one of the toys of the infant Dionysus, and hoop driving is an attribute of Ganymede, often depicted on Greek vase paintings from the 5th century BCE. Images of the hoop are sometimes presented in the context of ancient Greek pederastic tradition. \n\nThe Roman game was to roll the hoop while throwing a spear or stick through it. For Romans, this was more an entertainment and military development, not a philosophical activity. Several ancient sources praise the sport. According to Horace, hoop driving was one of the manly sports. Emperor Julian's physician, describes hoop rolling as a form of physical and mental therapy. Antyllus indicates that at first the player should roll the hoop maintaining an upright posture, but after warming up he can begin to jump and run through the hoop. Such exercises, he holds, are best done before a meal or a bath, as with any physical exercise. \n\nIn China, the game may well go back to 1000 BC or further. \n\n\n\n"
+        },
+
+        "ipod": {
+            "searchName": "ipod mini nano classic old", 
+            "localUrl": "ipod.png",
+            "introInfo": "The name iPod was proposed by Vinnie Chieco, a freelance copywriter, who (with others) was called by Apple to figure out how to introduce the new player to the public. After Chieco saw a prototype, he thought of the movie 2001: A Space Odyssey and the phrase ‘Open the pod bay doors, Hal’, which refers to the white EVA Pods of the Discovery One spaceship. Chieco saw an analogy to the relationship between the spaceship and the smaller independent pods in the relationship between a personal computer and the music player.\n\nThe product (which Fortune called ‘Apple's 21st-Century Walkman’) was developed in less than one year and unveiled on October 23, 2001. Jobs announced it as a Mac-compatible product with a 5 GB hard drive that put ‘1,000 songs in your pocket.’ \n\nApple researched the trademark and found that it was already in use. Joseph N. Grasso of New Jersey had originally listed an ‘iPod’ trademark with the U.S. Patent and Trademark Office (USPTO) in July 2000 for Internet kiosks. The first iPod kiosks had been demonstrated to the public in New Jersey in March 1998, and commercial use began in January 2000 but had apparently been discontinued by 2001. The trademark was registered by the USPTO in November 2003, and Grasso assigned it to Apple Computer, Inc. in 2005. \n\nAs development progressed, Apple continued to refine the software's look and feel, rewriting much of the code. Starting with the iPod Mini, the Chicago font was replaced with Espy Sans. Later iPods switched fonts again to Podium Sans - a font similar to Apple's corporate font, Myriad. Color display iPods then adopted some Mac OS X themes like Aqua progress bars, and brushed metal meant to evoke a combination lock. \n\nOn January 8, 2004, Hewlett-Packard (HP) announced that they would sell HP-branded iPods under a license agreement from Apple. Several new retail channels were used - including Walmart - and these iPods eventually made up 5% of all iPod sales. In July 2005, HP stopped selling iPods due to unfavorable terms and conditions imposed by Apple. \n\nIn 2006, Apple with Irish rock band U2 presented a special edition of the 5th-generation iPod. Like its predecessor, this iPod has the signatures of the four members of the band engraved on its back, but this one was the first time the company changed the color of the stainless steel back from a silver chrome to black. This iPod was only available with 30 GB of storage capacity. The special edition entitled purchasers to an exclusive video with 33 minutes of interviews and performance by U2, downloadable from the iTunes Store. \n\nIn 2007, Apple modified the iPod interface again with the introduction of the sixth-generation iPod Classic and third-generation iPod Nano by changing the font to Helvetica and, in most cases, splitting the screen in half by displaying the menus on the left and album artwork, photos, or videos on the right (whichever was appropriate for the selected item). \n\nIn mid-2015, several new color schemes for all of the current iPod models were spotted in iTunes 12.2 update. Belgian website Belgium iPhone originally found the images when plugging in an iPod for the first time, and subsequent leaked photos were found by Pierre Dandumont. \n\nOn July 27, 2017, Apple removed the iPod Nano and Shuffle from its stores, marking the end of Apple producing standalone music players. On May 10, 2022, Apple discontinued the iPod Touch, the last remaining product in the iPod line. iOS 15 was the last iOS release the 7th generation iPod touch received as iOS 16 drops support for it entirely. \n\n\n\n"
+        },
+
+        "magneticDrawingBoard": {
+            "searchName": "kids magnetic drawing board erasable", 
+            "localUrl": "magnetic_drawing_board.png",
+            "introInfo": "Hey I am!"
+        },
+
+        "4wdMini": {
+            "searchName": "mini 4wd chassis Tamiya anime", 
+            "localUrl": "mini_4wd.png",
+            "introInfo": "Hey I am!"
+        },
+
+        "nokia": {
+            "searchName": "retro nokia", 
+            "localUrl": "nokia.png",
+            "introInfo": "Hey I am!"
+        },
+
+        "tamagotchi":{
+            "searchName": "tamagotchi pet toys original", 
+            "localUrl": "tamagotchi.png",
+            "introInfo": "Hey I am!"
+        },
+
+        "walkman": {
+            "searchName": "retro sony walkman", 
+            "localUrl": "walkman.png",
+            "introInfo": "Hey I am!"
+        },
+
+        "waterfulRingToss": {
+            "searchName": "waterful ring-toss toys", 
+            "localUrl": "waterful_ring_toss.png",
+            "introInfo": "Hey I am!"
+        }
+    }
+
+}
