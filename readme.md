@@ -14,4 +14,4 @@
   - Left and right butttons to shift among items list, items info, items collection and video pop-up
   - Up and down buttons to change items when in the items list, and to browse the item text when in items info
   - Rightmost button to select one item or cancel one item when in the items list
-    [![Watch the gif](https://j.gifs.com/lRymPJ.gif)]
+    [![Watch the gif](https://j.gifs.com/J8n2rl.gif)]
