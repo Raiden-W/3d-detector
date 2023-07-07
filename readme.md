@@ -8,8 +8,10 @@
 ## How to play with it
 
 - First click the let side yellow switch to trun on the screen.
+  [![Click the left switch](<readme-pics/click 2023-01-31 090859.png>)]
+
 - Then click right side buttons to navigate the UI:
-- Left and right butttons to shift among items list, items info, items collection and video pop-up
-- Up and down buttons to change items when in the items list, and to browse the item text when in items info
-- Rightmost button to select one item or cancel one item when in the items list
-  [![Watch the video](<readme-pics/click 2023-01-31 090859.png>)](https://vimeo.com/841859707)
+  - Left and right butttons to shift among items list, items info, items collection and video pop-up
+  - Up and down buttons to change items when in the items list, and to browse the item text when in items info
+  - Rightmost button to select one item or cancel one item when in the items list
+    [![Watch the gif](https://j.gifs.com/lRymPJ.gif)]
